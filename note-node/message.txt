@@ -1,0 +1,1 @@
+Hello, roman!Hello, /home/roman!Hello, /home/roman!Hello, /home/roman, you are 25 !Hello, undefined, you are 25 !Hello, roman, you are 25 !Hello, roman, you are undefined !
