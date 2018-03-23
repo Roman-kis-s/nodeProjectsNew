@@ -27,7 +27,7 @@ app.post('/contact/send', (req, res) => {
         service : 'Gmail',
         auth : {
             user : 'morientesjob@gmail.com',
-            pass : 'ineedajob20'
+            pass : '***'
         }
     });
     const mailOptions = {
